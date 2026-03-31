@@ -40,7 +40,7 @@ This repository includes implementations and tests for:
 To compile the core application:
 
 ```bash
-cd /home/debojeet/Project/Falcon
+cd /home/user/Falcon
 g++ -std=c++17 -Wall -Wextra -O2 -o falcon main.cpp avl.cpp hashtable.cpp heap.cpp thread_pool.cpp zset.cpp client.cpp server.cpp
 ```
 
