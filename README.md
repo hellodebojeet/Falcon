@@ -69,7 +69,3 @@ All tests should pass and print confirmation details.
 - Keep APIs stable in header files for external consumption
 - Add unit tests for new functionality before commit
 - Use `-Wall -Wextra` to catch warnings early
-
-## License
-
-The project uses the license provided in `LICENSE`.
